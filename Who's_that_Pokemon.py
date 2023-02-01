@@ -21,7 +21,7 @@ pokemon = {
     'color1': 'blue-green',
     'color2': 'red',
     'type1': 'grass',
-    'type2': 'poison'  
+    'type2': ''  
   },
     'charmander': {
     'feet': 2,
@@ -70,6 +70,7 @@ pokemon = {
 # Get random pokemon
 randPokemonName = random.choice(list(pokemon.keys()))
 randPokemon = pokemon[randPokemonName]
+print(randPokemon)
 input = input('Enter a pokemon: ')
 closest_match = difflib.get_close_matches(input , pokemon)
 print(closest_match)
