@@ -70,8 +70,12 @@ pokemon = {
 # Get random pokemon
 randPokemonName = random.choice(list(pokemon.keys()))
 randPokemon = pokemon[randPokemonName]
+comp = random.choice(pokemon)
 print(randPokemon)
 input = input('Enter a pokemon: ')
+  if input == comp
+  print(correct)
+  if 
 # closest_match = difflib.get_close_matches(input , pokemon)
 # print(closest_match)
 
