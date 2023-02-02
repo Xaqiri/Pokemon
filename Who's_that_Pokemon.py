@@ -84,7 +84,10 @@ while (not done):
     done = True
   if player.lower() == 'n':
     (not done)
-    print(randPokemon)  
+    randPokemonName = random.choice(list(pokemon.keys()))
+    randPokemon = pokemon[randPokemonName]
+    print(randPokemon)
+      
 # closest_match = difflib.get_close_matches(input , pokemon)
 # print(closest_match)
 
