@@ -68,19 +68,23 @@ pokemon = {
 }
 
 # Get random pokemon
-done = False
 randPokemonName = random.choice(list(pokemon.keys()))
 randPokemon = pokemon[randPokemonName]
 print(randPokemon)  
-player = input('Enter a pokemon: ').lower().rstrip()
-# while (not done):
-if player == randPokemonName:
-    print('correct')
-    player = input('Are you Done? Y/N? ')
-    if player.lower() == 'y':
-      done = True
-else:
-    print('incorrect')
+done = False
+while (not done):
+  player = input('Enter a pokemon: ').lower().rstrip()
+  while player not in randPokemonName:
+        print("incorrect")
+        player = input ('Enter a pokemon? ').lower().rstrip()
+  player == randPokemonName
+  print('correct')
+  player = input('Are you Done? Y/N? ')
+  if player.lower() == 'y':
+    done = True
+  if player.lower() == 'n':
+    (not done)
+    print(randPokemon)  
 # closest_match = difflib.get_close_matches(input , pokemon)
 # print(closest_match)
 
