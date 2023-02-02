@@ -1,5 +1,6 @@
 import difflib
 import random
+
 pokemon = {
 	'bulbasaur': {
   	'feet': 4,
@@ -72,13 +73,14 @@ randPokemonName = random.choice(list(pokemon.keys()))
 randPokemon = pokemon[randPokemonName]
 print(randPokemon)  
 player = input('Enter a pokemon: ').lower().rstrip()
-if player == randPokemonName:
-  print('correct')
-  player = input('Are you Done? Y/N? ')
-  if player.lower() == 'y':
-    done = True
-else:
-  print('incorrect')
+while (not done):
+  if player == randPokemonName:
+    print('correct')
+    player = input('Are you Done? Y/N? ')
+    if player.lower() == 'y':
+      done = True
+  else:
+    print('incorrect')
 # closest_match = difflib.get_close_matches(input , pokemon)
 # print(closest_match)
 
