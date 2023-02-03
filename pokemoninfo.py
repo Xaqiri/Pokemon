@@ -1,6 +1,7 @@
 pokemon = {
-	'bulbasaur': {
-  	'region': 'kanto',
+    'bulbasaur': {
+  	'dex no.': '0001',
+    'region': 'kanto gen 1',
     'feet': '4',
     'color1': 'blue-green',
     'color2': 'none',
@@ -9,7 +10,7 @@ pokemon = {
     'evolution': '1' 
   },
   'ivysaur': {
-    'region': 'kanto',
+    'region': 'kanto gen 1',
     'feet': '4',
     'color1': 'blue-green',
     'color2': 'red',
@@ -18,7 +19,7 @@ pokemon = {
     'evolution': '2' 
   },
   'venusaur': {
-    'region': 'kanto',
+    'region': 'kanto gen 1',
     'feet': '4',
     'color1': 'blue-green',
     'color2': 'pink',
@@ -27,7 +28,7 @@ pokemon = {
     'evolution': '3'   
   },
   'charmander': {
-    'region': 'kanto',
+    'region': 'kanto gen 1',
     'feet': '2',
     'color1': 'orange',
     'color2': 'yellow',
@@ -36,7 +37,7 @@ pokemon = {
     'evolution': '1'   
   },
   'charmeleon': {
-    'region': 'kanto',
+    'region': 'kanto gen 1',
     'feet': '2',
     'color1': 'red',
     'color2': 'yellow',
@@ -45,7 +46,7 @@ pokemon = {
     'evolution': '2'   
   },
   'charizard': {
-    'region': 'kanto',
+    'region': 'kanto gen 1',
     'feet': '2',
     'color1': 'orange',
     'color2': 'yellow',
@@ -54,7 +55,7 @@ pokemon = {
     'evolution': '3'   
   },
   'squirtle': {
-    'region': 'kanto',
+    'region': 'kanto gen 1',
     'feet': '2',
     'color1': 'blue',
     'color2': 'brown',
@@ -63,7 +64,7 @@ pokemon = {
     'evolution': '1'   
   },
   'wartortle': {
-    'region': 'kanto',
+    'region': 'kanto gen 1',
     'feet': '2',
     'color1': 'purple',
     'color2': 'brown',
@@ -72,7 +73,7 @@ pokemon = {
     'evolution': '2'   
   },
   'blastoise': {
-    'region': 'kanto',
+    'region': 'kanto gen 1',
     'feet': '2',
     'color1': 'blue',
     'color2': 'brown',
@@ -80,4 +81,577 @@ pokemon = {
     'type2': 'none',
     'evolution': '3'   
   },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+  '': {
+  	'dex no.': '',
+    'region': 'kanto gen 1',
+    'feet': '',
+    'color1': '',
+    'color2': '',
+    'type1': '',
+    'type2': '',
+    'evolution': '' 
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
