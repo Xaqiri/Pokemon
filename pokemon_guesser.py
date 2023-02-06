@@ -1,12 +1,12 @@
 import random
 
-from pokemoninfo import pokemon 
+from pokedex import pokemon 
 
 done = False
 
 # Get random pokemon
 randPokemonName = random.choice(list(pokemon.keys()))
-randPokemon = pokemon[randPokemonName]
+randPokemon = randPokemonName
 
 while (not done):
   print(randPokemon) 
