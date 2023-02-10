@@ -34,7 +34,11 @@ def main():
             row.insert(5, 'No evolution') 
         if len(row) < len(headers):
             row.insert(4, 'None')
+        if len(row) < len(headers):
             row.append('No notes')
+        # Since I'm using the semi colon as the delimiter, need to make sure
+        # there aren't any in the note's body
+        row[-1] = row[-1].replace(';', '')
         # Joining the list of pokemon data into a string, with each index delineated by a semicolon.
         # The notes contain commas, so I didn't want to use them since it would interfere with importing the data to Excel
         row = ';'.join(row)
